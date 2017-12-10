@@ -1,0 +1,17 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.gray{
+	-fx-background-color:#D3D3D3;
+}
+
+.Lgray{
+	-fx-background-color:#F5F5F5;
+}
+
+.fringe{
+	-fx-background-color:#99ccff;
+}
+
+.final{
+	-fx-background-color:#e6ffff;
+}
